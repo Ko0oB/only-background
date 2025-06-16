@@ -83,6 +83,7 @@ only-background/
 ├── templates/
 │   └── index.html         # HTML template with Bootstrap
 ├── uploads/               # folder created at runtime to store uploaded images
+├── results/               # folder with output picture
 │
 ├── images/
 │   └── screenshot.png     # Screenshot from web application
