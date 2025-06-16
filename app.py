@@ -7,7 +7,7 @@ import time
 app = Flask(__name__)
 
 UPLOAD_FOLDER = 'uploads'
-RESULT_FOLDER = 'static'
+RESULT_FOLDER = 'results'
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 os.makedirs(RESULT_FOLDER, exist_ok=True)
 
